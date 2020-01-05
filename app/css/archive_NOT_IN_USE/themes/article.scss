@@ -1,0 +1,32 @@
+.article {
+    width: 100%;
+    text-align: center;
+    margin: 0.5%;
+    display: block;
+    border-radius: 15px 15px 5px 5px;
+}
+
+.article p {
+    margin: 0px;
+    padding: 5px 15px;
+    text-align: justify;
+}
+
+.article h3 {
+    display: block;
+    margin-top: 0px;
+    margin: 0px;
+    font-size: $f-h3;
+    text-align: left;
+    padding-left: 10px;
+}
+
+.article img {
+    width: 210px;
+    height: 210px;
+    float: left;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 35px 35px 35px 35px;
+    background-color: rgba(14, 51, 74, 0.3);
+}

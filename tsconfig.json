@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "outDir": "./public/",
+        "sourceMap": true,
+        "noImplicitAny": true,
+        "moduleResolution": "node",
+        "target": "es6",
+        "jsx": "react"
+    },
+    "include": [
+        "app/**/*"
+    ],
+    "exclude": [
+        "**/*.spec.ts"
+    ]
+}

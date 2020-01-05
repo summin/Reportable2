@@ -1,0 +1,27 @@
+$bg-cl: #3a596c;
+$bg-wh: white;
+$bg-ft: #98c7a2;
+$cl-ft: black;
+$f-sel: #FAEBD7;
+$f-her: #FAEBD7;
+
+$f-h: "Helvetica Neue";
+$f-a: "Arial";
+$f-g: "GaramondProItalic";
+
+//header
+$h-sz-h: 60px;
+$h-wd-li: 110px;
+$f-sz-head-nav: 25px;
+
+//font standard
+$f-sz: 15px;
+$f-h3: 20px;
+$f-h2: 35px;
+$f-h1: 45px;
+
+@import './one-shots.scss';
+@import './grid.scss';
+@import './content.scss';
+@import './nav.scss'
+

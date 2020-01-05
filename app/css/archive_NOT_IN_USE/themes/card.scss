@@ -1,0 +1,32 @@
+.card {
+    width: 250px;
+    text-align: center;
+    margin: 0.5%;
+    display: block;
+    box-shadow: 2px 2px 2px grey;
+    border-radius: 15px 15px 5px 5px;
+}
+
+.card p {
+    margin: 0px;
+    padding: 5px 15px;
+    text-align: justify;
+}
+
+.card h3 {
+    display: inline-block;
+    margin-top: 0px;
+    margin: 0px;
+    font-size: $f-h3;
+    width: 40%;
+    padding-left: 10px;
+}
+
+.card img {
+    width: 210px;
+    height: 210px;
+    margin: 20px 0 5px;
+    padding: 10px;
+    border-radius: 35px 35px 35px 35px;
+    background-color: rgba(14, 51, 74, 0.3);
+}
